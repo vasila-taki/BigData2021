@@ -1,5 +1,5 @@
 # BigData2021
-Solutions of projects in "Data Analytics" course (2021) of DI-UoA
+Solutions of projects in "Data Analytics" course (2021-2022) of DI-UoA
 
 Project consists of 3 requirements:
 1. Classification of news articles
